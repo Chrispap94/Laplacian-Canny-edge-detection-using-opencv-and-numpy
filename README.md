@@ -1,1 +1,1 @@
-Laplacian,Canny edge detection using opencv and numpy
+Laplacian,Canny edge detection using opencv and numpy.
